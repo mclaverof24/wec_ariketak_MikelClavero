@@ -1,3 +1,3 @@
 "use strict";
-nombre = "Ana";
+nombre = "Ana"; // Uncaught ReferenceError: nombre is not defined
 console.log(nombre);
